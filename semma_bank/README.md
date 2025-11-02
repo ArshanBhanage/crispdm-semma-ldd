@@ -5,7 +5,7 @@ This folder contains the Colab notebook `semma_bank.ipynb` which follows the SEM
 Placeholders:
 
 - Video explanation: <add video link here>
-- Medium article: <add Medium link here>
+- Medium article: (https://medium.com/@bhanagearshan/term-deposit-prediction-using-the-semma-methodology-from-sas-to-scikit-learn-51f66f9b7b44)
 
 Notes:
 
