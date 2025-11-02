@@ -19,9 +19,6 @@ This repository contains three comprehensive end-to-end data mining projects, ea
 
 **Notebook:** [`crispdm_telco.ipynb`](./crispdm_telco/crispdm_telco.ipynb)
 
-- 📹 Video explanation: *coming soon*
-- 📝 Medium article: *coming soon*
-
 ---
 
 ### 2. [KDD — UCI Adult (Census Income)](./kdd_adult/)
@@ -38,9 +35,6 @@ This repository contains three comprehensive end-to-end data mining projects, ea
 
 **Notebook:** [`kdd_adult.ipynb`](./kdd_adult/kdd_adult.ipynb)
 
-- 📹 Video explanation: *coming soon*
-- 📝 Medium article: *coming soon*
-
 ---
 
 ### 3. [SEMMA — UCI Bank Marketing](./semma_bank/)
@@ -56,9 +50,6 @@ This repository contains three comprehensive end-to-end data mining projects, ea
 5. Assess
 
 **Notebook:** [`semma_bank.ipynb`](./semma_bank/semma_bank.ipynb)
-
-- 📹 Video explanation: *coming soon*
-- 📝 Medium article: *coming soon*
 
 ---
 
