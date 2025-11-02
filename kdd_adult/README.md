@@ -4,7 +4,7 @@ This folder contains the Colab notebook `kdd_adult.ipynb` which demonstrates an 
 
 Placeholders:
 
-- Video explanation: <add video link here>
+- Video explanation: <https://youtu.be/iRnYIjwbbHY>
 - Medium article: [(https://medium.com/@bhanagearshan/from-raw-census-data-to-insights-a-kdd-process-with-the-uci-adult-dataset-94246594756e)]
 
 Notes:
